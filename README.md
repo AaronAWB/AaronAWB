@@ -16,6 +16,8 @@ I enjoy hiking in beautiful Northwest Washington with my wife and rescue dog ⛰
 
 Open to local or remote software engineering opportunities at any great company, but especially in legal tech.
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 <!--
 **AaronAWB/AaronAWB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
