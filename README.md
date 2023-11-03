@@ -2,7 +2,7 @@ I'm a software engineer who discovered a calling in tech after years as a lawyer
 
 I shifted careers after getting hooked on coding and inspired by the exciting innovation happening in legal tech. 💡 Software Development blends the logical problem solving that drew me to the law with the power to build tools capable of driving positive change and enhancing lives. 💪
 
-I’ve been self-teaching and participating in a software engineering mentorship program called Software Development Mastery since September 2022. I built a variety of projects through that program – including three of the full stack web apps pinned to my profile ⬆️ – while receiving feedback, code-reviews, and guidance on real-world best practices.
+I’ve been self-teaching and participating in a software engineering mentorship program called Software Development Mastery since September 2022. I built a variety of projects through that program – including three of the full stack web apps pinned below ⬇️ – while receiving feedback, code-reviews, and guidance on real-world best practices.
 
 What do I offer?
 
