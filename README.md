@@ -1,8 +1,4 @@
 I'm a software engineer who discovered a calling in tech after years as a lawyer.
-
-I shifted careers after getting hooked on coding and inspired by the exciting innovation happening in legal tech. Software Development blends the logical problem solving that drew me to the law with the power to build tools capable of driving positive change and enhancing lives.
-
-
 <!--
 **AaronAWB/AaronAWB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
