@@ -1,4 +1,4 @@
-I'm a software engineer who discovered a calling in tech after years as a lawyer.
+Software Engineer and non-practicing lawyer.
 <!--
 **AaronAWB/AaronAWB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
